@@ -1,0 +1,9 @@
+Install-Module `
+   Az.Accounts, `
+   Az.Compute, `
+   Az.DesktopVirtualization, `
+   Az.ImageBuilder, `
+   Az.ManagedServiceIdentity, `
+   Az.Resources, `
+   AzureAD, `
+   MicrosoftTeams
